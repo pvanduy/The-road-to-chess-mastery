@@ -79,5 +79,3 @@ The opening phase of a chess game is critical for setting up a strong position. 
 - Play games focusing solely on applying opening principles.
 - Analyze your games to identify where you deviated from these principles.
 - Study model games by grandmasters to see these principles in action.
-
-By mastering these opening principles, you will build strong foundations for your chess games and set yourself up for success in the middle game.
